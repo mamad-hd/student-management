@@ -1,1 +1,1 @@
-# student-management
+student management with tkinter 

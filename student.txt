@@ -1,0 +1,3 @@
+{'name': 'mmad', 'family': 'hadadi', 'gender': 'male', 'age': '20', 'phone': '09912361477', 'ncode': '4901321888', 'stdcode': '111111', 'python_score': '21', 'java_score': '43', 'c_score': '8', 'description': ''}
+{'name': 'amirali', 'family': 'hadadi', 'gender': 'male', 'age': '17', 'phone': '09122060755', 'ncode': '4901321887', 'stdcode': '111112', 'python_score': '100', 'java_score': '70', 'c_score': '90', 'description': 'hadadi'}
+{'name': 'reza', 'family': 'javadi', 'gender': 'male', 'age': '19', 'phone': '09912361444', 'ncode': '4901321886', 'stdcode': '111113', 'python_score': '99', 'java_score': '99', 'c_score': '99', 'description': 'kharkhon'}
